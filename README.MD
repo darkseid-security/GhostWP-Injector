@@ -6,6 +6,8 @@ GhostWP Injector V2 Developed by The Intrusion Team
 
 ----------------------------------------------------------------------
 
+<img src="https://github.com/darkseid-security/GhostWP-Injector/blob/main/screenshots/WP-brute.jpg">
+
 Features
 -------------------------
 - Detects if wordpress site is reachable
