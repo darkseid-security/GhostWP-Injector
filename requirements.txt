@@ -1,0 +1,5 @@
+mechanicalsoup
+tqdm
+colorama
+xmlrpclib
+requests
