@@ -2,11 +2,10 @@
 
 ----------------------------------------------------------------------
 
-GhostWP Injector V2 Developed by The Intrusion Team
+GhostWP Injector V2
 
 ----------------------------------------------------------------------
 
-<img src="https://github.com/darkseid-security/GhostWP-Injector/blob/main/screenshots/WP-brute.jpg">
 
 Features
 -------------------------
